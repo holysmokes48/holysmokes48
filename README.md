@@ -1,6 +1,6 @@
-# Hi there, stranger!
+# Hi there, stranger! :wink:
 
-## About Me
+## About Me :laughing:
 
 - 🔭 I’m currently working on ... something weird
 - 🌱 I’m currently learning ...   something neat
@@ -9,8 +9,8 @@
 - 💬 Ask me about ... what my next projects are!
 - 📫 How to reach me: ... via LinkedIn!
 - 😄 Pronouns: ... she/her!
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... idk, you tell me. :sweat_smile:
 
- ### Portfolio Link
+ ### :sparkles: Portfolio Link :sparkles:
  
  Check this out: 
