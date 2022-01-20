@@ -11,6 +11,9 @@
 - 😄 Pronouns: ... she/her!
 - ⚡ Fun fact: ... idk, you tell me. :sweat_smile:
 
- ### :sparkles: Portfolio Link :sparkles:
- 
- Check this out: sni.netlify.app/
+<html>
+ <body>
+  <h3> <a href = "sni.netlify.app/">:sparkles: Click here to view my Personal Portfolio website! :sparkles: </a></h3>
+
+ </body>
+ </html>
