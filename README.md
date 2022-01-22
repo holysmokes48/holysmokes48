@@ -13,7 +13,7 @@
 
 <html>
  <body>
-  <h3> <a href = "sni.netlify.app/">:sparkles: Click here to view my Personal Portfolio website! :sparkles: </a></h3>
+  <h3> :sparkles: Click here to view my Personal Portfolio website! sni.netlify.app/ :sparkles: </a></h3>
 
  </body>
  </html>
